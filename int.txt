@@ -1,0 +1,19 @@
+Começando aqui
+O jogo vai precisar de vários elementos: 
+- Painel de Navegação;
+- As cobras
+- O campo
+- A comida
+Além disso, é preciso definir a mecânica do jogo. Uma vez eu li que todo jogo é baseado em turnos, o que se parar pra prensar é algo que faz bastante sentido. Os jogos são rodados em frames, cada frame representando um 
+estado do jogo. Isso se vai refletir na classe main, quando definirmos um contador ou um loop para indicar o estado do jogo. 
+
+INTERFACE GRÁFICA
+O chatgpt indicou o Swing como interface gráfica, e como esse projeto será feito seguindo as orientações do chatgpt (bem como outras informações que tirarmos da web), é o que nós vamos usar aqui.
+
+FEATURES
+Nosso jogo deve ter algumas features:
+-Pontuação,
+-Mapas distintos
+-Possibilidade de jogar com mais de um jogador.
+
+Jpanel = criar uma grade de blocos. 
